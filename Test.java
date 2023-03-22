@@ -1,1 +1,7 @@
- public class Test{}
+ public class Test{
+	 
+	 public void testCode(){
+		 
+		 // buisness logic...
+	 }
+ }
